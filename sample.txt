@@ -1,1 +1,10 @@
-om hire 8520850  hgfdsa
+public class omhire{
+
+
+static void main (String[] args){ 
+int a= 25;
+for(int q=0,q<a,q+2){
+System.out.println(a+"value");
+}
+}
+}
